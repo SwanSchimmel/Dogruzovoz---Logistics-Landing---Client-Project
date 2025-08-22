@@ -15,10 +15,6 @@ Delivered from a rough idea to a complete live site. The client rated the result
 🚀 How to run  
 Open index.html locally in browser, or view via GitHub Pages once enabled.
 
-🖼 Screenshots  
-<img width="1536" height="1024" alt="1" src="https://github.com/user-attachments/assets/440b0bd8-08b8-46de-9e47-132c87699dab" />
-
-
 💡 What I learned  
 - Turning unclear business requests into usable, mobile-friendly UI  
 - Communicating with client, clarifying requirements, and iterating fast  
