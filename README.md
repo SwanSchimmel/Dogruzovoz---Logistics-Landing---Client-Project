@@ -1,24 +1,18 @@
-📌 Description  
-Real freelance order: responsive landing page for a logistics/courier service.  
-Delivered from a rough idea to a complete live site. The client rated the result 5/5.
+# Junior React Portfolio
 
-🛠 Tech stack  
-- HTML5  
-- CSS3 (responsive, mobile-first, media queries)  
-- Basic JavaScript (anchors, navigation)
+A simple React portfolio app for a junior frontend developer.
 
-👩‍💻 My role  
-- Took vague client brief → clarified goals → structured sections (services, CTA, contact)  
-- Built adaptive layout from scratch  
-- Delivered under real deadline, with revisions and final approval
+## Features
+- Animated hero section with glowing aurora background
+- About section
+- Skills with staggered entrance animations
+- Project cards with smooth reveal and hover interactions
+- Contact section
 
-🚀 How to run  
-Open index.html locally in browser, or view via GitHub Pages once enabled.
-
-💡 What I learned  
-- Turning unclear business requests into usable, mobile-friendly UI  
-- Communicating with client, clarifying requirements, and iterating fast  
-- Delivering production-ready responsive pages under pressure
-
-✅ Result  
-Final work accepted by client with top rating (5/5 satisfaction).
+## Run locally
+1. Open `index.html` directly in your browser.
+2. Or run a local static server:
+```bash
+python3 -m http.server 4173
+```
+Then open `http://localhost:4173`.
